@@ -1,10 +1,10 @@
 def new_hash
-	aHash = {}
-	aHash
+	newHash = {}
+	newHash
 end
 
 def actor
-	aNewHash = {name: "Dwayne The Rock Johnson"}
+	actor = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
